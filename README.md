@@ -15,5 +15,5 @@ Before installing, you will need to determine which distro and distro version yo
 <br>
 To check distro you are using, use <code>neofetch</code> or <code>cat /etc/os-release</code>
 <br>
-# Installation
+# Installion
 Download the installation file using <code>wget [url]</code> and <code>chmod +x [file] && bash -E [file]</code>to run
