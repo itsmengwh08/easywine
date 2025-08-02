@@ -11,3 +11,5 @@ Before installing, you will need to determine which distro and distro version yo
 | Ubuntu 24.04 Linux Mint 22   | noble    |
 | Ubuntu 24.10                 | oracular |
 | Ubuntu 25.04                 | plucky   |
+<br>
+To check distro you are using, use <code>neofetch</code> or <code>cat /etc/os-release</code>
