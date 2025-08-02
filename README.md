@@ -1,4 +1,5 @@
 # This is just a demo repo on how to install Wine - for Linux newbies
+# Before installation
 Before installing, you will need to determine which distro and distro version you are using.
 <br>
 | Distro                       | Codename |
@@ -13,3 +14,5 @@ Before installing, you will need to determine which distro and distro version yo
 | Ubuntu 25.04                 | plucky   |
 <br>
 To check distro you are using, use <code>neofetch</code> or <code>cat /etc/os-release</code>
+# Installation
+Download the installation file using <code>wget <url></code> and <code>chmod +x <file></code> && <code>bash -E <file> </code>to run
